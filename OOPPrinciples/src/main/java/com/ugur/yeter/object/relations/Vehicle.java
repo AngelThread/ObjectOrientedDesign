@@ -1,4 +1,4 @@
-package com.ugur.yeter.objectrelations;
+package com.ugur.yeter.object.relations;
 
 //Composition Association
 public class Vehicle {
