@@ -1,4 +1,4 @@
-package com.ugur.yeter.object.principles.singleResp.domain;
+package com.ugur.yeter.lesson_1.singleResponsibility.domain;
 
 public class Employee {
 	private long id = -1L;

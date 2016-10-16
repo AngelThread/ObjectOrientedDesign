@@ -1,9 +1,9 @@
-package com.ugur.yeter.object.principles.singleResp.clients;
+package com.ugur.yeter.lesson_1.singleResponsibility.clients;
 
-import com.ugur.yeter.object.principles.singleResp.database.EmployeeDAO;
-import com.ugur.yeter.object.principles.singleResp.domain.Employee;
-import com.ugur.yeter.object.principles.singleResp.report.EmployeeReportFormatter;
-import com.ugur.yeter.object.principles.singleResp.report.FormatType;
+import com.ugur.yeter.lesson_1.singleResponsibility.database.EmployeeDAO;
+import com.ugur.yeter.lesson_1.singleResponsibility.domain.Employee;
+import com.ugur.yeter.lesson_1.singleResponsibility.report.EmployeeReportFormatter;
+import com.ugur.yeter.lesson_1.singleResponsibility.report.FormatType;
 
 public class ClientModule {
 

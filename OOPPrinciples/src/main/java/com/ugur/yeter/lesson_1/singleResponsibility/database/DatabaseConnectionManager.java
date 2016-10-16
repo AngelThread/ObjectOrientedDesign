@@ -1,4 +1,4 @@
-package com.ugur.yeter.object.principles.singleResp.database;
+package com.ugur.yeter.lesson_1.singleResponsibility.database;
 
 public class DatabaseConnectionManager {
 	private DatabaseConnectionManager() {

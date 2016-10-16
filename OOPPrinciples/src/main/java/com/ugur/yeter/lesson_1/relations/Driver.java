@@ -1,4 +1,4 @@
-package com.ugur.yeter.object.relations;
+package com.ugur.yeter.lesson_1.relations;
 
 //Dependency Association
 public class Driver {

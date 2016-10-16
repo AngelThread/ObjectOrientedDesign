@@ -1,6 +1,6 @@
-package com.ugur.yeter.object.principles.singleResp.report;
+package com.ugur.yeter.lesson_1.singleResponsibility.report;
 
-import com.ugur.yeter.object.principles.singleResp.domain.Employee;
+import com.ugur.yeter.lesson_1.singleResponsibility.domain.Employee;
 
 public  class ReportFormatter {
 	

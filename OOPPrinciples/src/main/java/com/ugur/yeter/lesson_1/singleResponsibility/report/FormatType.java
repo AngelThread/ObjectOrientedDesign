@@ -1,4 +1,4 @@
-package com.ugur.yeter.object.principles.singleResp.report;
+package com.ugur.yeter.lesson_1.singleResponsibility.report;
 
 public enum FormatType {
 	XML,CVS
