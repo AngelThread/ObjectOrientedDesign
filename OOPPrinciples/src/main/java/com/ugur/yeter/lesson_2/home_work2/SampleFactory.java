@@ -5,6 +5,9 @@ public class SampleFactory {
 	
 	public static void main(String[] args) {
 		ElectronicSmartTool phone = new SmartPhone();
+		
+		ElectronicSmartTool tablet = new Tablet();
+
 
 	}
 
