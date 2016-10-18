@@ -14,6 +14,9 @@ public class SampleFactory {
 		ElectronicSmartTool tablet = new Tablet();
 		tablet.launchProcess();
 
+		ElectronicSmartTool tablet1 = new Tablet();
+		tablet1.launchProcess();
+
 	}
 
 }
