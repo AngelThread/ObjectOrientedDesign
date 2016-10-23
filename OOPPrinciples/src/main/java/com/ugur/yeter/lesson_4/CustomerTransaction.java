@@ -14,9 +14,6 @@ public class CustomerTransaction implements Accounting, Reporting {
 		this.productList = productList;
 	}
 	
-	/* (non-Javadoc)
-	 * @see com.ugur.yeter.lesson_4.Reporting#getName()
-	 */
 	@Override
 	public String getName(){
 		
