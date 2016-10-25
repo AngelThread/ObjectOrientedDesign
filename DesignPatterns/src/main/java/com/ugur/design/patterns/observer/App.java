@@ -11,8 +11,8 @@ public class App {
 		EmployeeManagmentSystem management = new EmployeeManagmentSystem();
 		HRDepartment hrDep = new HRDepartment();
 		PayrollDepartment payRollDep = new PayrollDepartment();
-		management.addObserver(hrDep);
-		management.addObserver(payRollDep);
+		management.registerObserver(hrDep);
+		management.registerObserver(payRollDep);
 
 		management.addNewEmployee(employeeUgur);
 		management.addNewEmployee(employeeYunus);
